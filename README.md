@@ -1,15 +1,15 @@
 # Ping Firmware
-Firmware of P30 Sensor
+Firmware of [P30 Sensor](http://searobotix.com/p30-sonar/)
 
 <br/>
 
-## P30通信协议
+## P30 通信协议
 
-UART串口通信 （TTL逻辑电平：3.3-5.0 V）
+UART 串口通信 （ TTL 逻辑电平：3.3-5.0 V）
 
 <br/>
 	
-## P30线序定义
+## P30 线序定义
 
 颜色|定义  
 :-:|:-:
@@ -20,8 +20,8 @@ UART串口通信 （TTL逻辑电平：3.3-5.0 V）
 
 <br/>
 
-## [ P30 ](http://searobotix.com/p30-sonar/)串行通信波特率？
+## P30 串行通信波特率？
 
-出厂默认为 115200 。波特率取决于使用设备编程的固件，可改为 9600 。
+出厂默认为 115200 。波特率取决于使用设备编程的[固件](https://github.com/searobotix/ping-firmware/tree/master/ping1d)，可改为 9600 。
 
 <br/>
